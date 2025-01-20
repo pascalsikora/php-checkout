@@ -7,7 +7,7 @@ There are many ways to run php web application, here we have check out of severa
 
 ## 1. Ubuntu - PHP in Apache as a module
 
-### Installing Apache
+### Install Apache
 ```sh
 sudo apt update
 sudo apt install apache2
