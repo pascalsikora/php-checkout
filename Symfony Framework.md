@@ -65,12 +65,7 @@ composer require webapp
 And select `symfony/webapp-pack`
 
 ```
-symfony new sample1 --version="7.2.x" --webapp
-```
-
-## The Symfony MakerBundle
-```
-composer require --dev symfony/maker-bundle
+symfony new my-project --version="7.2.x" --webapp
 ```
 
 
